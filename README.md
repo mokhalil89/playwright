@@ -1,6 +1,6 @@
 # playwright
 
-## __Practicies for Playwright for other Test Automation Engineers__
+## __Practicies Playwright for other Test Automation Engineers__
 
 
 
